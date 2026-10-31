@@ -1,4 +1,4 @@
- ## 🌾 AgriBORA Commodity Price Forecasting Challenge
+## 🌾 AgriBORA Commodity Price Forecasting Challenge
 
 Ranked 51 / 358 competitors 🏅
 Zindi Data Science Competition
